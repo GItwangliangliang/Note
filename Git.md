@@ -196,3 +196,5 @@ git log --graph --pretty=oneline --abbrev-commit
 ```
 
 ![image-20240718144653091](/Users/wangliang/Library/Application Support/typora-user-images/image-20240718144653091.png)
+
+### 分支管理策略
