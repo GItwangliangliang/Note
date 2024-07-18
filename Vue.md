@@ -1960,5 +1960,5 @@ Scoped样式
 写法：<style scoped>
 
 ```
-Creating a new branch is quick and simple.
+Creating a new branch is quick AND simple.
 ```
